@@ -102,15 +102,17 @@ body {
 }
 .site-article {
   padding: 70px 0;
-  background: #2d2641;
+  
 }
 .article-inner {
   padding: 0 80px;
+  background-color: #2d2641;
 }
 .wrapper-article-title {
   display: inline-block;
   width: 475px;
   margin-right: 300px;
+ 
 }
 .article-title {
   font-size: 56px;
